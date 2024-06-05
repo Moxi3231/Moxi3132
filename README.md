@@ -1,6 +1,5 @@
 # Moxank Patel
 
-![Profile Image](path-to-your-image.jpg)
 
 ## About Me
 I am a passionate software engineer with expertise in developing high-performance web applications and systems. With a strong background in computer engineering, I excel in solving complex problems and optimizing system performance.
