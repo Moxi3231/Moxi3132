@@ -9,6 +9,7 @@ I am a passionate software engineer with expertise in developing high-performanc
 - **LinkedIn**: [linkedin.com/in/Moxank](https://www.linkedin.com/in/Moxank/)
 - **GitHub**: [github.com/Moxi3231](https://github.com/Moxi3231)
 - **LeetCode**: [leetcode.com/u/moxi_7762](https://leetcode.com/u/moxi_7762/)
+- **HackerRank**: [hackerrank.com/profile/Moxi7762](https://www.hackerrank.com/profile/Moxi7762)
 
 ## Education
 
