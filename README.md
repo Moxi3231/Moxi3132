@@ -8,7 +8,7 @@ I am a passionate software engineer with expertise in developing high-performanc
 - **Email**: moxankpatel@gmail.com
 - **LinkedIn**: [linkedin.com/in/Moxank](https://www.linkedin.com/in/Moxank/)
 - **GitHub**: [github.com/Moxi3231](https://github.com/Moxi3231)
-- **LeetCode**: [https://leetcode.com/u/moxi_7762/)
+- **LeetCode**: [leetcode.com/u/moxi_7762)
 
 ## Education
 
