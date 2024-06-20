@@ -11,47 +11,6 @@ I am a passionate software engineer with expertise in developing high-performanc
 - **LeetCode**: [leetcode.com/u/moxi_7762](https://leetcode.com/u/moxi_7762/)
 - **HackerRank**: [hackerrank.com/profile/Moxi7762](https://www.hackerrank.com/profile/Moxi7762)
 
-## Education
-
-**San Jose State University, San Jose, CA**  
-*Master of Science in Computer Engineering*  
-*GPA: 3.9/4.0*  
-*January 2022 – December 2023*
-
-**Dharmsinh Desai University, Nadiad, GJ**  
-*Bachelor of Technology in Computer Engineering*  
-*GPA: 8.6/10.0*  
-*July 2017 – March 2021*
-
-## Skills
-
-- **Programming**: C, C++, Python, Java, Shell Script, Assembly Language, JavaScript, Verilog, PHP, Go, TypeScript
-- **Frameworks**: TensorFlow, jQuery, Angular, Node, Django, React, Spring, Scikit-Learn, NumPy, Matplotlib, Matlab, Hadoop
-- **Databases**: MongoDB, MySQL, Oracle, Cassandra, PostgreSQL, Firebase, Elasticsearch
-- **DevOps**: Docker, Kubernetes, Git, GitHub, AWS, Selenium, Zookeeper
-- **Operating Systems**: Linux, Windows, macOS
-
-## Work Experience
-
-### Stella, San Jose, CA
-**Software Engineer**  
-*Aug 2023 – April 2024*
-- **Reduced Page Load Time**: Designed robust React modules, decreasing page load time by 40%.
-- **Performance Optimization**: Conducted profiling to reduce memory usage by a factor of 10.
-- **API Integration**: Implemented APIs for GPT-based query models using gRPC.
-
-### Healthray, Surat, GJ
-**Software Engineer**  
-*April 2021 – December 2021*
-- **Optimized Performance**: Enhanced distributed systems for high-traffic applications.
-- **Automation**: Developed automation test infrastructure including unit, integration, and E2E tests.
-
-### Institute for Plasma Research, Gandhinagar, GJ
-**Software Engineer Intern**  
-*January 2021 – April 2021*
-- **Containerization**: Led the containerization of seven applications, improving scalability by 50%.
-- **Legacy System Migration**: Migrated a C++ desktop application to x64 architecture.
-
 ## Projects
 
 ### [ARGame](https://github.com/Moxi3231/ARGame)
@@ -79,15 +38,6 @@ I am a passionate software engineer with expertise in developing high-performanc
 *REST, Django, Python, MongoDB*
 - Led a team to develop a microservice application for document retrieval from 10k documents.
 
-## Achievements
-
-- **C++**: Expert (5 stars) on HackerRank
-- **C**: Expert (5 stars) on HackerRank
-- **Java**: Expert (5 stars) on HackerRank
-- **SQL**: Expert (5 stars) on HackerRank
-- **Python**: Expert (5 stars) on HackerRank
-
----
 
 Feel free to clone the repositories mentioned and explore the projects in detail. Let's connect and collaborate on exciting software engineering challenges!
 
