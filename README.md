@@ -35,20 +35,20 @@ I am a passionate software engineer with expertise in developing high-performanc
 
 ### Stella, San Jose, CA
 **Software Engineer**  
-*June 2023 – April 2024*
+*Aug 2023 – April 2024*
 - **Reduced Page Load Time**: Designed robust React modules, decreasing page load time by 40%.
 - **Performance Optimization**: Conducted profiling to reduce memory usage by a factor of 10.
 - **API Integration**: Implemented APIs for GPT-based query models using gRPC.
 
 ### Healthray, Surat, GJ
 **Software Engineer**  
-*April 2020 – December 2021*
+*April 2021 – December 2021*
 - **Optimized Performance**: Enhanced distributed systems for high-traffic applications.
 - **Automation**: Developed automation test infrastructure including unit, integration, and E2E tests.
 
 ### Institute for Plasma Research, Gandhinagar, GJ
 **Software Engineer Intern**  
-*January 2020 – April 2020*
+*January 2021 – April 2021*
 - **Containerization**: Led the containerization of seven applications, improving scalability by 50%.
 - **Legacy System Migration**: Migrated a C++ desktop application to x64 architecture.
 
