@@ -13,7 +13,7 @@ I am a passionate software engineer with expertise in developing high-performanc
 
 ## Projects
 
-### [ARGame](https://github.com/Moxi3231/ARGame)
+### [ARGame](https://github.com/Aatish13/ArGame)
 *Unity 3D, ARCore, C#*
 - Developed an AR Treasure Hunt game creating a unique user experience.
 - Built a live filter application for superimposing virtual elements in the real world.
